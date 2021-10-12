@@ -1,0 +1,7 @@
+<entityStoreData>
+	<entity type="MicrometerLoader">
+		<fval name="name">
+			<value>Micrometer Loader</value>
+		</fval>
+	</entity>
+</entityStoreData>
