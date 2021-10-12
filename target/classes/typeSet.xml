@@ -1,0 +1,4 @@
+<typeSet>
+  <typedoc file="MicrometerLoadableModule.xml"/>
+    <typedoc file="instance.xml"/>
+</typeSet>

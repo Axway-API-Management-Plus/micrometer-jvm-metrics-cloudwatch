@@ -1,0 +1,9 @@
+<entityStoreData>
+	<entityType name="ExternalConfigLoader" extends="NamedLoadableModule">
+		<constant name="_version" type="integer" value="1" />
+		<constant name="class" type="string" value="com.axway.micrometer.MicrometerModule" />
+		<constant name="namespace" type="string" value="shutterflytest" />
+		<constant name="frequency" type="integer" value="1" />
+		<constant name="loadorder" type="integer" value="3" />
+	</entityType>
+</entityStoreData>
